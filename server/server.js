@@ -1,5 +1,11 @@
 // server.js - Main server file for the MERN blog application
+import express from 'express';
+import mongoose from 'mongoose';
+import dotenv from 'dotenv';
+import cors from 'cors';
+import bodyParser from 'body-parser';
 
+dotenv.config();
 // Import required modules
 const express = require('express');
 const mongoose = require('mongoose');
@@ -75,4 +81,4 @@ process.on('unhandledRejection', (err) => {
   process.exit(1);
 });
 
-module.exports = app; 
+export default router;
