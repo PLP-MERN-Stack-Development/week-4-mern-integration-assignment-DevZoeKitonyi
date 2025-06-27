@@ -84,7 +84,8 @@ Build a full-stack MERN (MongoDB, Express.js, React.js, Node.js) application tha
 2. Clone your personal repository that was created by GitHub Classroom
 3. Complete all the tasks in the assignment
 4. Commit and push your code regularly to show progress
-5. Include in your repository:
+5. Include in your repository:!
+
    - Complete client and server code
    - `.env.example` files for both client and server
    - A comprehensive README.md with:
@@ -94,4 +95,23 @@ Build a full-stack MERN (MongoDB, Express.js, React.js, Node.js) application tha
      - Features implemented
      - Screenshots of the application
 6. Your submission will be automatically graded based on the criteria in the autograding configuration
-7. The instructor will review your submission after the autograding is complete 
+7. The instructor will review your submission after the autograding is complete
+
+
+
+
+
+
+
+![Screenshot 2025-06-25 183640](https://github.com/user-attachments/assets/0a31729c-06a9-4928-8911(Dashboard)
+
+![Screenshot 2025-06-25 183703](https://github.com/user-attachments/assets/dda26eeb-35a9-41e6-a929-72244ad50c5f)
+-f0b8138cea45)(Register)
+
+
+![Screenshot 2025-06-25 183802](https://github.com/user-attachments/assets/715af422-c974-46bc-8d98-9509e4636e31)
+
+(Sign up)
+
+![Screenshot 2025-06-25 183738](https://github.com/user-attachments/assets/f7893065-de95-4e1c-a3ca-118a219d194d)
+(Blog and Footer)
